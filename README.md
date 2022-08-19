@@ -1,4 +1,4 @@
-React & Redux ile Alışveriş ürünlerini listeleme
+React ile Alışveriş ürünlerini listeleme
 
 
 
