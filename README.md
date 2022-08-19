@@ -1,10 +1,5 @@
 React & Redux ile Alışveriş ürünlerini listeleme
 
-## Özellikler
-* Öğe ekle ve kaldır
-* Öğeleri kaldır
-* Öğelerin miktarını gerçek zamanlı olarak düzenleyin
-* Nakliye dahil toplamı otomatik olarak hesaplayın (seçildiyse)
 
 
 ### Gereksinimler
